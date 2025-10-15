@@ -1,0 +1,1 @@
+The parquet files in this repo were created from the csv files from [https://github.com/County-Health-Rankings-and-Roadmaps/chrr_measure_calcs/tree/main/relational_data](https://github.com/County-Health-Rankings-and-Roadmaps/chrr_measure_calcs/tree/main/relational_data).
